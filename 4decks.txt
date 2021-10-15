@@ -1,0 +1,131 @@
+Deck
+3 Dragon's Fire
+4 Riverglide Pathway
+4 Shatterskull Smashing
+2 Negate
+4 Esika's Chariot
+1 Mountain
+4 Goldspan Dragon
+4 Magda, Brazen Outlaw
+2 Lair of the Hydra
+4 Cragcrown Pathway
+3 Moonveil Regent
+4 Barkchannel Pathway
+2 Den of the Bugbear
+4 Ranger Class
+4 Jaspera Sentinel
+5 Forest
+4 Prosperous Innkeeper
+2 Reckless Stormseeker
+
+Sideboard
+3 Tangletrap
+4 Burning Hands
+2 Reckless Stormseeker
+2 Briarbridge Tracker
+2 Kessig Naturalist
+2 Disdainful Stroke
+
+Deck
+1 Cinderclasm
+3 Memory Deluge
+4 Expressive Iteration
+1 Smoldering Egg
+3 The Celestus
+2 Spikefield Hazard
+3 Lier, Disciple of the Drowned
+2 Mountain
+2 Galvanic Iteration
+4 Fading Hope
+1 Demon Bolt
+3 Clearwater Pathway
+4 Riverglide Pathway
+2 Hall of Storm Giants
+3 Shipwreck Marsh
+2 Duress
+4 Blightstep Pathway
+1 Burn Down the House
+2 Jwari Disruption
+1 Island
+1 Prismari Command
+4 Haunted Ridge
+4 Alrund's Epiphany
+1 Bloodchief's Thirst
+1 Power Word Kill
+1 Cathartic Pyre
+
+Sideboard
+1 Unexpected Windfall
+2 Mind Flayer
+1 Duress
+3 Cyclone Summoner
+4 Malevolent Hermit
+2 Go Blank
+1 Power Word Kill
+1 Soul Shatter
+
+Deck
+1 Spikefield Hazard
+4 Riverglide Pathway
+3 Fading Hope
+4 Unexpected Windfall
+4 Divide by Zero
+2 Shatterskull Smashing
+2 Memory Deluge
+3 Expressive Iteration
+3 Jwari Disruption
+2 Test of Talents
+2 Field of Ruin
+2 Hall of Storm Giants
+2 Demon Bolt
+3 Frostboil Snarl
+4 Galvanic Iteration
+4 Alrund's Epiphany
+5 Island
+3 Burn Down the House
+7 Mountain
+
+Sideboard
+2 Goldspan Dragon
+1 Spikefield Hazard
+3 Burning Hands
+3 Smoldering Egg
+2 Malevolent Hermit
+1 Teachings of the Archaics
+1 Test of Talents
+1 Environmental Sciences
+1 Mascot Exhibition
+
+Deck
+1 Spikefield Hazard
+4 Dragon's Fire
+4 Memory Deluge
+1 Negate
+7 Island
+2 Divide by Zero
+4 Expressive Iteration
+4 Riverglide Pathway
+1 Prismari Command
+3 Frostboil Snarl
+4 Goldspan Dragon
+1 Fading Hope
+3 Alrund's Epiphany
+4 Smoldering Egg
+2 Hall of Storm Giants
+4 Mountain
+4 Shatterskull Smashing
+1 Dissipate
+2 Thundering Rebuke
+3 Jwari Disruption
+1 Saw It Coming
+
+Sideboard
+1 Fading Hope
+1 Environmental Sciences
+4 Malevolent Hermit
+1 Heated Debate
+3 Burning Hands
+2 Cinderclasm
+1 Prismari Command
+1 Mascot Exhibition
+1 Test of Talents
